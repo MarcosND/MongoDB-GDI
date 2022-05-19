@@ -1,3 +1,6 @@
+// Projeto realizado para a disciplina de GDI em MongoDB. O banco de dados consiste na criação de duas coleções, uma que registra 
+// todas as consultas realizadas em diversos hospitais, e outra que registra os hospitals em si. 
+
 db.createCollection("hospital")
 db.createCollection("consultas")
 
